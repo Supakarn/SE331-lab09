@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="IdProvider" IDEtalkID="FC312B28862822E6D7A50894E5AA51A6" />
+=======
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="IdProvider" IDEtalkID="F07C3DD48E85791B6A437F164EAFF1DE" />
+>>>>>>> ee84ae9a4a4f0fda30f8ea72f876096a988e8204
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
